@@ -1,0 +1,12 @@
+C:\Users\w7037954\source\repos\REACT JS\ContactApp\ContactApp.Repository\bin\Debug\netstandard2.0\ContactApp.Repository.deps.json
+C:\Users\w7037954\source\repos\REACT JS\ContactApp\ContactApp.Repository\bin\Debug\netstandard2.0\ContactApp.Repository.dll
+C:\Users\w7037954\source\repos\REACT JS\ContactApp\ContactApp.Repository\bin\Debug\netstandard2.0\ContactApp.Repository.pdb
+C:\Users\w7037954\source\repos\REACT JS\ContactApp\ContactApp.Repository\bin\Debug\netstandard2.0\ContactApp.Models.dll
+C:\Users\w7037954\source\repos\REACT JS\ContactApp\ContactApp.Repository\bin\Debug\netstandard2.0\ContactApp.Models.pdb
+C:\Users\w7037954\source\repos\REACT JS\ContactApp\ContactApp.Repository\obj\Debug\netstandard2.0\ContactApp.Repository.csprojAssemblyReference.cache
+C:\Users\w7037954\source\repos\REACT JS\ContactApp\ContactApp.Repository\obj\Debug\netstandard2.0\ContactApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\w7037954\source\repos\REACT JS\ContactApp\ContactApp.Repository\obj\Debug\netstandard2.0\ContactApp.Repository.AssemblyInfoInputs.cache
+C:\Users\w7037954\source\repos\REACT JS\ContactApp\ContactApp.Repository\obj\Debug\netstandard2.0\ContactApp.Repository.AssemblyInfo.cs
+C:\Users\w7037954\source\repos\REACT JS\ContactApp\ContactApp.Repository\obj\Debug\netstandard2.0\ContactApp.Repository.csproj.CopyComplete
+C:\Users\w7037954\source\repos\REACT JS\ContactApp\ContactApp.Repository\obj\Debug\netstandard2.0\ContactApp.Repository.dll
+C:\Users\w7037954\source\repos\REACT JS\ContactApp\ContactApp.Repository\obj\Debug\netstandard2.0\ContactApp.Repository.pdb
